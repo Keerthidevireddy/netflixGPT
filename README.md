@@ -1,4 +1,4 @@
-- Create React App
+
 - Configured TailwindCSS 
 - Header
 - Routing of App-[React-router-dom,RouterProvider,createBrowserRouter,useNavigate]
